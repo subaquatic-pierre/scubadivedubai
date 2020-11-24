@@ -1,12 +1,12 @@
 [submodule "api"]
 	path = api
-	url = https://github.com/subaquatic-pierre/scubadivedubai-api.git
+	url = git@github.com:subaquatic-pierre/scubadivedubai-api.git
 [submodule "storefront"]
 	path = storefront
-	url = https://github.com/subaquatic-pierre/scubadivedubai-storefront.git
+	url = git@github.com:subaquatic-pierre/scubadivedubai-storefront.git
 [submodule "dashboard"]
 	path = dashboard
-	url = https://github.com/subaquatic-pierre/scubadivedubai-dashboard.git
+	url = git@github.com:subaquatic-pierre/scubadivedubai-dashboard.git
 [submodule "infrastructure"]
 	path = infrastructure
-	url = https://github.com/subaquatic-pierre/scubadivedubai-infrastructure.git
+	url = git@github.com:subaquatic-pierre/scubadivedubai-infrastructure.git
