@@ -1,4 +1,4 @@
 #! /bin/bash
-
-source ./dev.env
-python3 manage.py runserver 0.0.0.0:8000
+./scripts/start-api.sh &
+./scripts/start-dashboard.sh &
+./scripts/start-storefront.sh
