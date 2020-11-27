@@ -6,7 +6,7 @@ export 'STATIC_URL=/static/'
 export 'MEDIA_URL=/media/'
 export 'SECRET_KEY=supersecretkey'
 export 'DEBUG=True'
-
+export 'VATLAYER_ACCESS_KEY=cedf249c2eed18bb4f390a3665bd9f4a'
 
 source venv/bin/activate
 cd api
