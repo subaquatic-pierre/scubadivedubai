@@ -1,5 +1,5 @@
 #! /bin/bash
-export 'DATABASE_URL=postgres://scubadivedubai:scubadivedubai@localhost:5432/scubadivedubai_db'
+export 'DATABASE_URL=postgres://scubadivedubai:OnlineStore01@localhost:5432/scubadivedubai_shop'
 export 'EMAIL_URL=smtp://AKIAQPIWRSOPQGTLNIVV:BM1OBPMJzVv4V3rSvA2Zv663y9CzOgrrZNuRj4oR0SyY@email-smtp.us-east-1.amazonaws.com:587/?tls=True'
 export 'DEFAULT_FROM_EMAIL=pierre@divesandybeach.com'
 export 'STATIC_URL=/static/'
