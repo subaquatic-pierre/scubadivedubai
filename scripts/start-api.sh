@@ -1,12 +1,12 @@
 #! /bin/bash
 export 'DATABASE_URL=none'
 export 'EMAIL_URL=none'
-export 'DEFAULT_FROM_EMAIL=pierre@divesandybeach.com'
+export 'DEFAULT_FROM_EMAIL=none'
 export 'STATIC_URL=/static/'
 export 'MEDIA_URL=/media/'
 export 'SECRET_KEY=supersecretkey'
 export 'DEBUG=True'
-export 'VATLAYER_ACCESS_KEY=cedf249c2eed18bb4f390a3665bd9f4a'
+export 'VATLAYER_ACCESS_KEY=none'
 export 'DEFAULT_COUNTRY=AE'
 export 'DEFAULT_CURRENCY=AED'
 
